@@ -1,0 +1,7 @@
+# kamailio/kamctlrc
+SIP_DOMAIN=dialstack.ai
+DBENGINE=POSTGRES
+DBHOST=${DB_HOST:-localhost}
+DBNAME=${DB_NAME:-dialstack}
+DBRWUSER=${DB_USER:-dialstack}
+DBRWPW=${DB_PASSWORD}

@@ -1,0 +1,10 @@
+.git
+*.md
+.DS_Store
+build.sh
+.dockerignore
+docker-compose.yml
+test-schema.sql
+*.swp
+*.swo
+*~
